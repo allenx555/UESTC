@@ -1,0 +1,2642 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="application/vnd.ms-excel;charset=UTF-8"> 
+<meta name=ProgId content=Excel.Sheet>
+</head>
+<body link=blue vlink=purple>
+<table align="center" border="1px" style="text-align: center;"><tbody><tr>
+				<td colspan="13" align="center">
+					<font color="#1F3D83" size="15pt" style="normal" weight="bold" letter-spacing="0" line-height="16pt" text-decoration="none">
+电子科技大学本科生点名册					</font>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="13" align="center">
+					<font color="#1F3D83" size="15pt" style="normal" weight="bold" letter-spacing="0" line-height="16pt" text-decoration="none">
+2017-2018学年第一学期					</font>
+				</td>
+			</tr>
+			<tr>
+				<td width="145px" colspan="2" align="right">课程序号：</td>
+				<td width="50px" align="left">E2200740.05</td>
+				<td width="205px" colspan="2" align="right">课程名称：</td>
+				<td width="80px" align="left">计算机组成原理与结构</td>
+				<td width="80px" align="right">考试安排：</td>
+				<td width="480px" colspan="6" align="left"></td>
+			</tr>
+			<tr>
+				<td width="145px" colspan="2" align="right">授课教师：</td>
+				<td width="50px" align="left">刘辉</td>
+				<td width="205px" colspan="2" align="right">开课院系：</td>
+				<td width="80px" align="left">信息与软件工程学院</td>
+				<td width="80px" align="right">课程安排：</td>
+				<td width="480px" colspan="6" align="left">刘辉 星期一 1-2 [1-17]  第二教学楼207 77 ,刘辉 星期三 3-4 [1-17]  第二教学楼207 77 </td>
+			</tr>
+		
+			<tr>
+				<td width="25px" align="center">序号</td>
+				<td width="120px" align="center">学号</td>
+				<td width="50px" align="center">姓名</td>
+				<td width="25px" align="center">性别</td>
+				<td width="180px" align="center">专业</td>
+				<td width="80px" align="center">1</td>
+				<td width="80px" align="center">2</td>
+				<td width="80px" align="center">3</td>
+				<td width="80px" align="center">4</td>
+				<td width="80px" align="center">5</td>
+				<td width="80px" align="center">6</td>
+				<td width="80px" align="center">7</td>
+				<td width="80px" align="center">8</td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">1</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2015220403010&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					杨永坤
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">2</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220101009&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					赵海良
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">3</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220101013&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					梁尘逸
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">4</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220101015&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					张敏禹
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">5</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220101017&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					宋钏
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">6</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220101018&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					冉鑫
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">7</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220101019&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					杨景翔
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">8</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220101027&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					王子言
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程（国际班）</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">9</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220101028&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					刘兆忠
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">10</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220101030&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					董欣怡
+				</td>
+				<td width="25px" align="center">女</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">11</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220101031&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					张婕
+				</td>
+				<td width="25px" align="center">女</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">12</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220101035&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					雍珍
+				</td>
+				<td width="25px" align="center">女</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">13</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220102003&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					张奕锦
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">14</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220102010&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					李仁海
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">15</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220102013&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					陈聪
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">16</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220102014&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					罗斯琦
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">17</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220102015&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					李达梽
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">18</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220102022&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					李小平
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">19</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220102023&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					张家
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">20</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220102027&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					马千里
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">21</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220102028&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					周恩华
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">22</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220102029&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					罗闽青
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">23</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220102035&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					孔馨悦
+				</td>
+				<td width="25px" align="center">女</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">24</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220102036&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					德央
+				</td>
+				<td width="25px" align="center">女</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">25</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220103002&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					林桂生
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">26</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220103008&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					王鹏凯
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">27</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220103014&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					向袁星
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">28</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220103016&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					李春
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">29</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220103017&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					王天瑞
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">30</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220103021&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					张绪亮
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">31</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220103023&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					廖思友
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">32</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220103024&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					陈凌峰
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">33</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220103029&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					成界桥
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">34</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220104003&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					高宇航
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">35</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220104007&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					黄成
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">36</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220104010&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					任继辉
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">37</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220104013&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					徐富杰
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">38</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220104016&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					夏龙
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">39</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220104019&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					杨宇涛
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">40</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220104021&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					周杨睿瑞
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程（国际班）</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+		<tr>
+				<td colspan="13" align="center">
+					<font color="#1F3D83" size="15pt" style="normal" weight="bold" letter-spacing="0" line-height="16pt" text-decoration="none">
+电子科技大学本科生点名册					</font>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="13" align="center">
+					<font color="#1F3D83" size="15pt" style="normal" weight="bold" letter-spacing="0" line-height="16pt" text-decoration="none">
+2017-2018学年第一学期					</font>
+				</td>
+			</tr>
+			<tr>
+				<td width="145px" colspan="2" align="right">课程序号：</td>
+				<td width="50px" align="left">E2200740.05</td>
+				<td width="205px" colspan="2" align="right">课程名称：</td>
+				<td width="80px" align="left">计算机组成原理与结构</td>
+				<td width="80px" align="right">考试安排：</td>
+				<td width="480px" colspan="6" align="left"></td>
+			</tr>
+			<tr>
+				<td width="145px" colspan="2" align="right">授课教师：</td>
+				<td width="50px" align="left">刘辉</td>
+				<td width="205px" colspan="2" align="right">开课院系：</td>
+				<td width="80px" align="left">信息与软件工程学院</td>
+				<td width="80px" align="right">课程安排：</td>
+				<td width="480px" colspan="6" align="left">刘辉 星期一 1-2 [1-17]  第二教学楼207 77 ,刘辉 星期三 3-4 [1-17]  第二教学楼207 77 </td>
+			</tr>
+		
+			<tr>
+				<td width="25px" align="center">序号</td>
+				<td width="120px" align="center">学号</td>
+				<td width="50px" align="center">姓名</td>
+				<td width="25px" align="center">性别</td>
+				<td width="180px" align="center">专业</td>
+				<td width="80px" align="center">1</td>
+				<td width="80px" align="center">2</td>
+				<td width="80px" align="center">3</td>
+				<td width="80px" align="center">4</td>
+				<td width="80px" align="center">5</td>
+				<td width="80px" align="center">6</td>
+				<td width="80px" align="center">7</td>
+				<td width="80px" align="center">8</td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">41</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220104026&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					章伟峰
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">42</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220104028&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					陈朝宇
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">43</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220104031&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					陈左娜
+				</td>
+				<td width="25px" align="center">女</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">44</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220104034&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					周晨
+				</td>
+				<td width="25px" align="center">女</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">45</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220105001&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					刘昌澍
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">46</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220105006&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					张洋瑜
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">47</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220105008&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					赵薪淇
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">48</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220105010&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					李俊杰
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">49</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220105012&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					潘文
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">50</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220105013&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					周家锐
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">51</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220105016&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					陈舜尧
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">52</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220105017&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					邓铠
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">53</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220105018&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					卓毓航
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">54</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220105021&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					文祎
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">55</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220105022&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					康昊宇
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">56</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220105023&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					李镖
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">57</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220105024&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					李昊
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">58</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220105029&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					赵浩然
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">59</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220105035&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					李晓洁
+				</td>
+				<td width="25px" align="center">女</td>
+				<td width="180px" align="center">16级软件工程（国际班）</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">60</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220201001&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					牛津
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">61</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220201002&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					魏传洋
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">62</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220201003&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					罗英伦
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">63</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220201009&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					王启民
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">64</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220201010&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					易成林
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">65</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220201011&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					许清秋
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">66</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220201012&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					陈传志
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">67</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220201014&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					张恒
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">68</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220201016&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					罗梵峰
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">69</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220201017&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					吴栩夷
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">70</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220201018&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					肖品宏
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">71</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220201019&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					王鹏宇
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">72</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220201021&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					章文
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">73</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220201022&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					胡家豪
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">74</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220201025&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					孙鹏飞
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">75</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220201026&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					王宠尧
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">76</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220201028&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					邱少哲
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">77</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220201029&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					梁恒
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">78</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220201031&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					王海蓉
+				</td>
+				<td width="25px" align="center">女</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">79</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220201032&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					张建莉
+				</td>
+				<td width="25px" align="center">女</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">80</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220202001&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					刘文鑫
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+		<tr>
+				<td colspan="13" align="center">
+					<font color="#1F3D83" size="15pt" style="normal" weight="bold" letter-spacing="0" line-height="16pt" text-decoration="none">
+电子科技大学本科生点名册					</font>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="13" align="center">
+					<font color="#1F3D83" size="15pt" style="normal" weight="bold" letter-spacing="0" line-height="16pt" text-decoration="none">
+2017-2018学年第一学期					</font>
+				</td>
+			</tr>
+			<tr>
+				<td width="145px" colspan="2" align="right">课程序号：</td>
+				<td width="50px" align="left">E2200740.05</td>
+				<td width="205px" colspan="2" align="right">课程名称：</td>
+				<td width="80px" align="left">计算机组成原理与结构</td>
+				<td width="80px" align="right">考试安排：</td>
+				<td width="480px" colspan="6" align="left"></td>
+			</tr>
+			<tr>
+				<td width="145px" colspan="2" align="right">授课教师：</td>
+				<td width="50px" align="left">刘辉</td>
+				<td width="205px" colspan="2" align="right">开课院系：</td>
+				<td width="80px" align="left">信息与软件工程学院</td>
+				<td width="80px" align="right">课程安排：</td>
+				<td width="480px" colspan="6" align="left">刘辉 星期一 1-2 [1-17]  第二教学楼207 77 ,刘辉 星期三 3-4 [1-17]  第二教学楼207 77 </td>
+			</tr>
+		
+			<tr>
+				<td width="25px" align="center">序号</td>
+				<td width="120px" align="center">学号</td>
+				<td width="50px" align="center">姓名</td>
+				<td width="25px" align="center">性别</td>
+				<td width="180px" align="center">专业</td>
+				<td width="80px" align="center">1</td>
+				<td width="80px" align="center">2</td>
+				<td width="80px" align="center">3</td>
+				<td width="80px" align="center">4</td>
+				<td width="80px" align="center">5</td>
+				<td width="80px" align="center">6</td>
+				<td width="80px" align="center">7</td>
+				<td width="80px" align="center">8</td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">81</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220202002&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					付子豪
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">82</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220202004&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					王志远
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">83</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220202005&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					孙润望
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">84</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220202018&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					龚志强
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">85</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220202023&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					孙意艨
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">86</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220202028&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					吴秉育
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">87</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220203004&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					唐鑫
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">88</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220203013&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					龚文昊
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">89</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220203015&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					宁顺宇
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">90</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220203019&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					张浩田
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">91</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220203021&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					王雨晨
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">92</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220203023&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					陈蔚洋
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">93</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220203025&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					周沛文
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">94</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220203030&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					樊鹏程
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">95</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220204001&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					唐朝
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">96</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220204004&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					叶鉴赏
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">97</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220204005&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					钱景涛
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">98</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220204013&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					郭崇豪
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">99</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220204014&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					杨正国
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">100</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220204015&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					李经纬
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">101</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220204020&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					李宇
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">102</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220204029&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					多吉平措
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">103</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220205001&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					张虎宇
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">104</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220205002&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					朱子傲
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">105</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220205007&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					赖跖
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">106</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220205015&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					李致远
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">107</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220205017&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					赵思成
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">108</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220205018&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					黄承浩
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">109</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220205019&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					刘宸宇
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">110</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220205021&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					黄科筝
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">111</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220205022&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					李洪波
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">112</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220205026&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					张义
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">113</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220205027&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					张梓豪
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">114</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220205028&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					赵可凡
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">115</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220205029&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					魏云飞
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(软件技术)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">116</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220401006&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					庄泽滨
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">117</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220901002&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					马彬杭
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程（数字动漫）</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td width="25px" align="center">118</td>
+				<td width="120px" align="center">
+					<font size="1px">
+							&nbsp;2016220901005&nbsp;
+					</font>
+				</td>
+				<td width="50px" align="center">
+					宦毓泰
+				</td>
+				<td width="25px" align="center">男</td>
+				<td width="180px" align="center">16级软件工程(信息工程)</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+	
+	<tr><td colspan="13">&nbsp;</td></tr>
+		<tr>
+			<td width="145px" colspan="2" align="left">说明：</td>
+			<td width="895px" colspan="11">
+				带<font color="red">*</font>号的学生与其他课程冲突&nbsp;&nbsp;
+				学号带<font color="red">C</font>的学生为重修&nbsp;&nbsp;
+				出勤&nbsp;√&nbsp;
+				旷课&nbsp;χ&nbsp;
+				病假&nbsp;Ο&nbsp;
+				事假&nbsp;Δ&nbsp;
+				迟到&nbsp;Φ&nbsp;
+			</td>
+		</tr>
+		<tr>
+			<td width="480px" colspan="6"></td>
+			<td width="560px" colspan="7" align="right">
+				任课老师签名：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;年&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日
+			</td>
+		</tr>
+	</tbody></table>
+</body>
+</html>

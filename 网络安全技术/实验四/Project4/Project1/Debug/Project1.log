@@ -1,0 +1,4 @@
+﻿  read.cpp
+D:\UESTC\网络安全技术\实验四\source code\read.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\UESTC\网络安全技术\实验四\source code\read.cpp(5,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  Project1.vcxproj -> D:\UESTC\网络安全技术\实验四\Project4\Debug\Project1.exe

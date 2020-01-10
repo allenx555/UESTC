@@ -1,0 +1,6 @@
+﻿  liyong.cpp
+cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+D:\UESTC\网络安全技术\实验三\source code\liyong.cpp(8,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+D:\UESTC\网络安全技术\实验三\source code\liyong.cpp(12,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  Project3.vcxproj -> D:\UESTC\网络安全技术\实验三\Project3\Debug\Project3.exe
